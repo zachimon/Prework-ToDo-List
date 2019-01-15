@@ -32,11 +32,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This was my introduction to Android Studio and Android development in general. I look forward to getting more familiar with it in the future!
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2019] [Zachary Harte]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
